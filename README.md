@@ -1,7 +1,6 @@
 # focus_me
 
-A new Flutter project.
-
+A modern task management application built with Flutter, designed to offer a fast, simple, and efficient experience for organizing activities and boosting productivity.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
